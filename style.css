@@ -1,0 +1,56 @@
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 390px;
+    
+    
+
+}
+
+h1{
+
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+a{  
+
+    border: solid;
+    border-color: black;
+    background-color: white;
+    font-size: 19px;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 7px;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 12px;
+    border-width: 2px;
+    
+}
+
+
+
+
+body{
+
+    background-color: palevioletred;
+
+}
+
+img{
+
+    height: 200px;
+}

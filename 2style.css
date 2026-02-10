@@ -1,0 +1,68 @@
+.img{
+
+    display: flex;
+    justify-content: center;
+    height: 380px;
+    align-items: end;
+    
+
+}
+
+
+
+body{
+    background-color: palevioletred;
+
+
+
+
+}
+
+
+.hello{
+    display: flex;
+    justify-content: center;
+    font-size: 9px;
+    font-family: sans-serif;
+}
+
+#heart{
+
+    color: #b51630;
+
+}
+
+h2{
+    
+    width: 300px;
+    font-size: 18pt;
+   font-family: sans-serif;
+   
+    
+}
+
+
+#lol{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+
+    height: 60%;
+}
+
+
+.gif-overlay {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('amor-hearts.gif');
+  background-size: cover; 
+  opacity: 0.3;
+  pointer-events: none; 
+  z-index: 9999; 
+}
